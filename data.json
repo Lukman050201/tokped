@@ -1,0 +1,138 @@
+{
+    "parabotan rumah": [
+        {
+            "foto": "images/produk/botol.jpg",
+            "nama": "Botol Minum",
+            "size": "500 ml",
+            "harga": "25.000",
+            "link": "https://www.google.com/search?q=botol+minum&tbm=shop"
+        },
+        {
+            "foto": "images/produk/magic com.jpg",
+            "nama": "Magic Com",
+            "size": "20 inch",
+            "harga": "120.000",
+            "link": "https://www.google.com/search?q=magic+com&tbm=shop"
+        },
+        {
+            "foto": "images/produk/panci-kukus.webp",
+            "nama": "Panci",
+            "size": "2 L",
+            "harga": "97.000",
+            "link": "https://www.google.com/search?q=panci+kukus&tbm=shop"
+        },
+        {
+            "foto": "images/produk/blender.webp",
+            "nama": "blender",
+            "size": "9000 ml",
+            "harga": "89.000",
+            "link": "https://www.google.com/search?q=blender&tbm=shop"
+        }
+    ],
+    "elektronik": [
+        {
+            "foto": "images/produk/laptop 2.jpg",
+            "nama": "Laptop Gaming",
+            "size": "Ram12/Rom250",
+            "harga": "8.900.000",
+            "link": "https://www.google.com/search?q=laptop&tbm=shop"
+        },
+        {
+            "foto": "images/produk/iphone.jpg",
+            "nama": "Latte Robusta",
+            "size": "Ram8/Rom125",
+            "harga": "18.000.000",
+            "link": "https://www.google.com/search?q=iphone&tbm=shop"
+        }
+    ],
+    "kosmetik": [
+        {
+            "foto": "images/produk/bedak.jpg",
+            "nama": "Make Over",
+            "size": "50 gram",
+            "harga": "89.000",
+            "link": "https://www.google.com/search?q=make+over&tbm=shop"
+        },
+        {
+            "foto": "images/produk/garnier.png",
+            "nama": "Garnier",
+            "size": "200 ml",
+            "harga": "35.000",
+            "link": "https://www.google.com/search?q=garnier&tbm=shop"
+        },
+        {
+            "foto": "images/produk/scarlet.jpg",
+            "nama": "Scarlet",
+            "size": "100 ml",
+            "harga": "47.000",
+            "link": "https://www.google.com/search?q=scarlet&tbm=shop"
+        },
+        {
+            "foto": "images/produk/skincare coklat.webp",
+            "nama": "Serum",
+            "size": "50 ml",
+            "harga": "180.000",
+            "link": "https://www.google.com/search?q=serum&tbm=shop"
+        }
+    ],
+    "aksesoris": [
+        {
+            "foto": "images/produk/sanadal.jpg",
+            "nama": "Make Over",
+            "size": "All Size",
+            "harga": "36.000",
+            "link": "https://www.google.com/search?q=sendal&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Sepatu Warkop.jpeg",
+            "nama": "Sepatu",
+            "size": "All Size",
+            "harga": "156.000",
+            "link": "https://www.google.com/search?q=sepatu&tbm=shop"
+        },
+        {
+            "foto": "images/produk/tas.avif",
+            "nama": "Tas",
+            "size": "All Size",
+            "harga": "250.000",
+            "link": "https://www.google.com/search?q=tas&tbm=shop"
+        }
+    ],
+    "pakaian": [
+        {
+            "foto": "images/produk/celana.avif",
+            "nama": "Celana Cargo",
+            "size": "All Size",
+            "harga": "80.000",
+            "link": "https://www.google.com/search?q=celana&tbm=shop"
+        },
+        {
+            "foto": "images/produk/jaket.jpg",
+            "nama": "Jaket",
+            "size": "All Size",
+            "harga": "75.000",
+            "link": "https://www.google.com/search?q=jaket&tbm=shop"
+        },
+        {
+            "foto": "images/produk/kaos-3.jpg",
+            "nama": "Kaos",
+            "size": "All Size",
+            "harga": "50.000",
+            "link": "https://www.google.com/search?q=kaos&tbm=shop"
+        },
+        {
+            "foto": "images/produk/c9bc1d227b6c1c23d1aebfb61d62692b.jpg",
+            "nama": "Kemeja",
+            "size": "All Size",
+            "harga": "97.000",
+            "link": "https://www.google.com/search?q=kemeja+pria&tbm=shop"
+        },
+        {
+            "foto": "images/produk/jaket tebel.webp",
+            "nama": "Jaket",
+            "size": "All Size",
+            "harga": "190.999",
+            "link": "https://www.google.com/search?q=jaket+tebel&tbm=shop"
+        }
+    ]
+}
